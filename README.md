@@ -4,7 +4,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 🔭 I’m currently working on
 - <div id = "gif"> <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif width="10", height="100"/> </div>
